@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  padding: 5px;
+  text-align: center;
+}
+
+#resultsPercent {
+  font-weight: bold;
+}
+
+#factors,
+#results {
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+
+/*# sourceMappingURL=/styles.dd855970.css.map */
